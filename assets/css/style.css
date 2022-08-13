@@ -3572,10 +3572,10 @@
 
 #main > header {
 	padding: 12em 0 10em 0;
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -3701,10 +3701,10 @@ body.is-mobile #main > header {
 
 #main-b > header {
 	padding: 12em 0 10em 0;
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -3765,10 +3765,10 @@ body.is-mobile #main-b > header {
 
 #main-c > header {
 	padding: 12em 0 10em 0;
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -3829,10 +3829,10 @@ body.is-mobile #main-c > header {
 
 #main-d > header {
 	padding: 12em 0 10em 0;
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/lamun.png");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/images/lamun.png");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/images/lamun.png");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/images/lamun.png");
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -3893,10 +3893,10 @@ body.is-mobile #main-d > header {
 
 #main-e > header {
 	padding: 12em 0 10em 0;
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.jpg");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.jpg");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.jpg");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.jpg");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.jpg");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.jpg");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.jpg");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.jpg");
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -4118,10 +4118,10 @@ body.is-mobile.baymun header.alt {
 /* contact */
 
 body.contact #page-wrapper {
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -4140,10 +4140,10 @@ body.is-mobile.contact #page-wrapper {
 
 body.is-mobile.contact #banner,
 body.is-mobile.contact .wrapper.style4 {
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -4168,10 +4168,10 @@ body.is-mobile.contact header.alt {
 /* alumni */
 
 body.alumni #page-wrapper {
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.jpg");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.jpg");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.jpg");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.jpg");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.jpg");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.jpg");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.jpg");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.jpg");
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -4190,10 +4190,10 @@ body.is-mobile.alumni #page-wrapper {
 
 body.is-mobile.alumni #banner,
 body.is-mobile.alumni .wrapper.style4 {
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.png");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.png");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.png");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/alumni.png");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.png");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.png");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.png");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/alumni.png");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -4219,10 +4219,10 @@ body.is-mobile.alumni header.alt {
 /* baymun */
 
 body.baymun #page-wrapper {
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bay.jpg");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bay.jpg");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bay.jpg");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bay.jpg");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/bay.jpg");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/bay.jpg");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/bay.jpg");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/bay.jpg");
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -4241,10 +4241,10 @@ body.is-mobile.baymun #page-wrapper {
 
 body.is-mobile.baymun #banner,
 body.is-mobile.baymun .wrapper.style4 {
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bay.jpg");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bay.jpg");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bay.jpg");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bay.jpg");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/bay.jpg");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/bay.jpg");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/bay.jpg");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/bay.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -4269,10 +4269,10 @@ body.is-mobile.baymun header.alt {
 /* travel */
 
 body.travel #page-wrapper {
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/lamun.png");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/lamun.png");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/lamun.png");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/lamun.png");
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -4291,10 +4291,10 @@ body.is-mobile.travel #page-wrapper {
 
 body.is-mobile.travel #banner,
 body.is-mobile.travel .wrapper.style4 {
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/lamun.png");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/lamun.png");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/lamun.png");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/lamun.png");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/lamun.png");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -4369,10 +4369,10 @@ body.is-mobile.baymun header.alt {
 /* faq */
 
 body.faq #page-wrapper {
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -4391,10 +4391,10 @@ body.is-mobile.faq #page-wrapper {
 
 body.is-mobile.faq #banner,
 body.is-mobile.faq .wrapper.style4 {
-	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
-	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/chairing.png");
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
+	background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/chairing.png");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -4419,10 +4419,10 @@ body.is-mobile.faq header.alt {
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -4441,10 +4441,10 @@ body.is-mobile.faq header.alt {
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.png");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/vsofat/ucbmun/main/images/banner.png");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
